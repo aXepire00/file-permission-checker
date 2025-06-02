@@ -7,6 +7,12 @@ Python tool to scan SMB shared folders and generate permission reports.
 - Export result to Excel
 - Warning if 'Everyone' access is found
 
+## Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 ```bash
 python checker.py
+```
